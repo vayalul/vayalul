@@ -1,4 +1,5 @@
-### ✨About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bouquet.png" alt="Bouquet" width="25" height="25" />
+### ✨About me <img src="https://github.com/vayalul/vayalul/assets/103208385/0541a6ed-0fa9-4813-a501-b5beb05ffb39"/>
+
 I'm a computer engineering student, passionate about cybersecurity.
 💗
 
