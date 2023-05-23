@@ -1,4 +1,6 @@
-### Hi there 👋
+### ✨About me
+I'm a computer engineering student, passionate about cybersecurity.
+💗
 
 <!--
 **vayalul/vayalul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
