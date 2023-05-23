@@ -1,4 +1,4 @@
-### ✨About me <img src="https://github.com/vayalul/vayalul/assets/103208385/0541a6ed-0fa9-4813-a501-b5beb05ffb39"/>
+### ✨About me <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"/>
 
 I'm a computer engineering student, passionate about cybersecurity.
 💗
