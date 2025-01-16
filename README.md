@@ -1,8 +1,5 @@
 ### ✨About me 
-<img src="http://www.styledollz.com/dollz/bonitas/bonangel12.gif"/>
-I'm a computer engineering student, passionate about cybersecurity.
-https://open.spotify.com/intl-es/track/0Q3q4t8ialJjXRVVNs86HJ?si=0c7cbbedba1944e
-💗
+cool af
 
 <!--
 **vayalul/vayalul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
